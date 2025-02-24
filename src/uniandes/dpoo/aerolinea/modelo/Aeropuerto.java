@@ -12,7 +12,7 @@ import uniandes.dpoo.aerolinea.exceptions.AeropuertoDuplicadoException;
  */
 public class Aeropuerto
 {
-    // TODO completar
+
 	/**
 	 * atributo string con el nombre
 	 */
